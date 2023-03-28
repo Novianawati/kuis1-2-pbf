@@ -1,0 +1,26 @@
+{
+    "artist" : 
+        [
+            {
+                "id" : 1,
+                "nama" : "Jake Enhypen",
+                "comment" : "Hello, Good Morning..."
+            },
+            {
+                "id" : 2,
+                "nama" : "Soobin TXT",
+                "comment" : "How Are You?"
+            },
+            {
+                "id" : 3,
+                "nama" : "Jihoon Treasure",
+                "comment" : "Are you ready for jakarta concert?"
+            }
+        ],
+    "agency": [
+            {"id" : 1, "nama" : "YG Entertaiment"},
+            {"id" : 2, "nama" : "Belift Entertaiment"},
+            {"id" : 3, "nama" : "JYP Entertaiment"},
+            {"id" : 4, "nama" : "Bighit Entertaiment"}
+        ]
+    }
